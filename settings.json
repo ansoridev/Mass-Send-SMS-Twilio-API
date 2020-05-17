@@ -1,0 +1,11 @@
+{
+    "settings":{
+        "number":"YOUR SENDER NUMBER IS HERE",
+        "accountid":"YOUR ACCOUNT ID",
+        "token":"YOUR AUTH TOKEN",
+        "log":"log.txt"
+    },
+    "body":{
+        "message":"Write your message here, and your link https://www.google.com/"
+    }
+}
